@@ -1,10 +1,12 @@
 # ReactJS-Game-of-Numbers
-Jogo rápido de numeros criado em ReactJS.
+Fast numbers game created in ReactJS.
 
-Quantos palpites você acha que um BOT. é capaz de dar!?
+How many guesses do you think a BOT. are you able to give !?
 
-Pense em um número de 0 à 300 e clique nos botões, maior ou menor.
+Think of a number from 0 to 300 and click the larger or smaller buttons.
 
-Caso for o número que você pensou, clique no botão acertou.
+If it's the number you thought, click the hit button.
 
-Veja quantos palpites o Bot deu!
+See how many guesses the Bot gave!
+
+Have a good time
